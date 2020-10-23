@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             length: 3,
             child: Scaffold(
               appBar: AppBar(
-                title: Text('Provider Demo'),
+                title: Text('Provider Dmo'),
                 centerTitle: true,
                 bottom: TabBar(
                   tabs: [
